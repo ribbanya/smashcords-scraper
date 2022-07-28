@@ -1,0 +1,2330 @@
+[
+  {
+    "id": "7",
+    "name": "Melee Character",
+    "type": "melee",
+    "createdAt": "2018-10-01T04:35:01.378Z",
+    "updatedAt": "2018-10-01T04:35:01.378Z",
+    "Servers": [
+      {
+        "id": "37",
+        "source": "meleefalco",
+        "destination": "discord.gg/HUxvTdy",
+        "name": "Falco",
+        "votes": "33",
+        "voted": [
+          "208813375491145728",
+          "410673868194316288",
+          "198266606806237184",
+          "517391199842336771",
+          "220276349342842881",
+          "559770749737500674",
+          "587407988063731718",
+          "105463435277389824",
+          "303290933124792332",
+          "332743945685827584",
+          "246141895309262849",
+          "343284780650987521",
+          "372771360327598081",
+          "642228201413935124",
+          "264265490803720192",
+          "316905719435886605",
+          "517411658965188608",
+          "673254440211316747",
+          "184192357384716289",
+          "136344772049764353",
+          "605123656531705896",
+          "648922563086516225",
+          "199907082445651969",
+          "507410244754735121",
+          "731644740382228573",
+          "810025083707850752",
+          "509521777202823168",
+          "100343042950586368",
+          "244263830962569227",
+          "234463643511554048",
+          "373198701411172352",
+          "165843567200174080",
+          "676520910353596476"
+        ],
+        "image": "smashcords.com/images/1538445795040.3828.jpeg",
+        "description": "For Falco players",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T02:19:51.548Z",
+          "updatedAt": "2018-10-02T02:19:51.548Z",
+          "CategoryId": "7",
+          "ReferralId": "37"
+        }
+      },
+      {
+        "id": "34",
+        "source": "meleedk",
+        "destination": "discord.gg/VaF5sUd",
+        "name": "Donkey Kong",
+        "votes": "3",
+        "voted": [
+          "367046771043467265",
+          "303290933124792332",
+          "507410244754735121"
+        ],
+        "image": "smashcords.com/images/1538445574104.837.jpeg",
+        "description": "For Donkey Kong players",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T02:19:51.548Z",
+          "updatedAt": "2018-10-02T02:19:51.548Z",
+          "CategoryId": "7",
+          "ReferralId": "34"
+        }
+      },
+      {
+        "id": "36",
+        "source": "meleedoc",
+        "destination": "discord.gg/0w4Z5Y1vxgiJt6sd",
+        "name": "Dr Mario",
+        "votes": "10",
+        "voted": [
+          "207554221522944001",
+          "327278790411550720",
+          "704841958270566410",
+          "507410244754735121",
+          "624070360173903883",
+          "770213492161642516",
+          "244263830962569227",
+          "827255608138661888",
+          "552312984287051777",
+          "842410187885117440"
+        ],
+        "image": "smashcords.com/images/1538445637733.6594.jpeg",
+        "description": "For Dr Mario players",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T02:19:51.548Z",
+          "updatedAt": "2018-10-02T02:19:51.548Z",
+          "CategoryId": "7",
+          "ReferralId": "36"
+        }
+      },
+      {
+        "id": "40",
+        "source": "meleeiceclimbers",
+        "destination": "discord.gg/0uiUkioTeExTGw9f",
+        "name": "Ice Climbers",
+        "votes": "6",
+        "voted": [
+          "172478691916382208",
+          "173904791016046592",
+          "584100853623947264",
+          "537714614931161088",
+          "210840357280284673",
+          "507410244754735121"
+        ],
+        "image": "smashcords.com/images/1538445946757.5632.jpeg",
+        "description": "For Ice Climbers players",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T02:19:51.548Z",
+          "updatedAt": "2018-10-02T02:19:51.548Z",
+          "CategoryId": "7",
+          "ReferralId": "40"
+        }
+      },
+      {
+        "id": "42",
+        "source": "meleekirby",
+        "destination": "discord.gg/0iihTeNw0FN9vBSo",
+        "name": "Kirby",
+        "votes": "6",
+        "voted": [
+          "506567735522885654",
+          "246833190797443072",
+          "724549286217515040",
+          "507410244754735121",
+          "678287100038348810",
+          "712616425805709322"
+        ],
+        "image": "smashcords.com/images/1538446051320.7188.jpeg",
+        "description": "For Kirby players",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T02:19:51.548Z",
+          "updatedAt": "2018-10-02T02:19:51.548Z",
+          "CategoryId": "7",
+          "ReferralId": "42"
+        }
+      },
+      {
+        "id": "44",
+        "source": "meleeluigi",
+        "destination": "discord.gg/0xLggx3U7EICyMm5",
+        "name": "Luigi",
+        "votes": "7",
+        "voted": [
+          "251903830466363392",
+          "303290933124792332",
+          "330659615068913670",
+          "327278790411550720",
+          "507410244754735121",
+          "770213492161642516",
+          "457038137525272577"
+        ],
+        "image": "smashcords.com/images/1538446112161.7996.jpeg",
+        "description": "For Luigi players",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T02:19:51.548Z",
+          "updatedAt": "2018-10-02T02:19:51.548Z",
+          "CategoryId": "7",
+          "ReferralId": "44"
+        }
+      },
+      {
+        "id": "41",
+        "source": "meleejigglypuff",
+        "destination": "discord.gg/0x4uq2ABzu6gnICT",
+        "name": "Jigglypuff",
+        "votes": "9",
+        "voted": [
+          "122796229108301824",
+          "584100853623947264",
+          "91658459027611648",
+          "629361011840778240",
+          "507410244754735121",
+          "413053792985022465",
+          "770213492161642516",
+          "421779907530457091",
+          "987817981000159292"
+        ],
+        "image": "smashcords.com/images/1538445983551.021.jpeg",
+        "description": "For Jigglypuff players",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T02:19:51.548Z",
+          "updatedAt": "2018-10-02T02:19:51.548Z",
+          "CategoryId": "7",
+          "ReferralId": "41"
+        }
+      },
+      {
+        "id": "39",
+        "source": "meleeganon",
+        "destination": "discord.gg/0ylqBnK8H2MJ4NlY?",
+        "name": "Ganondorf",
+        "votes": "3",
+        "voted": [
+          "105479383002648576",
+          "327278790411550720",
+          "507410244754735121"
+        ],
+        "image": "smashcords.com/images/1538445904585.401.jpeg",
+        "description": "For Ganondorf players",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T02:19:51.548Z",
+          "updatedAt": "2018-10-02T02:19:51.548Z",
+          "CategoryId": "7",
+          "ReferralId": "39"
+        }
+      },
+      {
+        "id": "38",
+        "source": "meleefox",
+        "destination": "discord.gg/9rp6qNR",
+        "name": "Fox",
+        "votes": "30",
+        "voted": [
+          "313079060894842881",
+          "559770749737500674",
+          "235565044388200458",
+          "391608212409024512",
+          "339068961587068949",
+          "290941425447600128",
+          "154302038040117249",
+          "372771360327598081",
+          "397605574990233601",
+          "188838932765474816",
+          "189178737017880577",
+          "317926379138187265",
+          "272213839141928960",
+          "156559283465617409",
+          "350449152209059841",
+          "457461482951671808",
+          "713274296251842580",
+          "215566016057573377",
+          "684889169285480475",
+          "499372896372785183",
+          "297552284219473922",
+          "507410244754735121",
+          "309825138025562112",
+          "479765484263309314",
+          "244263830962569227",
+          "700802565759172628",
+          "386627765367209985",
+          "373189643090264066",
+          "147911522604023817",
+          "676520910353596476"
+        ],
+        "image": "smashcords.com/images/1538445837599.0876.jpeg",
+        "description": "For Fox players",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T02:19:51.548Z",
+          "updatedAt": "2018-10-02T02:19:51.548Z",
+          "CategoryId": "7",
+          "ReferralId": "38"
+        }
+      },
+      {
+        "id": "58",
+        "source": "meleezelda",
+        "destination": "discord.gg/0cfhZQyx53mAuwty",
+        "name": "Zelda",
+        "votes": "3",
+        "voted": [
+          "584100853623947264",
+          "327278790411550720",
+          "507410244754735121"
+        ],
+        "image": "smashcords.com/images/1538446588095.3433.jpeg",
+        "description": "For Zelda mains",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T02:19:51.548Z",
+          "updatedAt": "2018-10-02T02:19:51.548Z",
+          "CategoryId": "7",
+          "ReferralId": "58"
+        }
+      },
+      {
+        "id": "57",
+        "source": "meleeyoshi",
+        "destination": "discord.gg/0vWHh31xabrT8h7H",
+        "name": "Yoshi",
+        "votes": "8",
+        "voted": [
+          "584100853623947264",
+          "98964283727032320",
+          "517411658965188608",
+          "301220383770542080",
+          "507410244754735121",
+          "559200615314489344",
+          "344478138215956480",
+          "311990814190600193"
+        ],
+        "image": "smashcords.com/images/1538446559606.056.jpeg",
+        "description": "For Yoshi players",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T02:19:51.548Z",
+          "updatedAt": "2018-10-02T02:19:51.548Z",
+          "CategoryId": "7",
+          "ReferralId": "57"
+        }
+      },
+      {
+        "id": "56",
+        "source": "meleeyounglink",
+        "destination": "discord.gg/0uRZflcDyAOMeAPK",
+        "name": "Young Link",
+        "votes": "9",
+        "voted": [
+          "72868870624378880",
+          "287410458778927104",
+          "275011997119152149",
+          "290996442779090974",
+          "552312984287051777",
+          "309825138025562112",
+          "275310673536483338",
+          "507410244754735121",
+          "329679915932712961"
+        ],
+        "image": "smashcords.com/images/1538446522669.004.jpeg",
+        "description": "For Young Link players",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T02:19:51.548Z",
+          "updatedAt": "2018-10-02T02:19:51.548Z",
+          "CategoryId": "7",
+          "ReferralId": "56"
+        }
+      },
+      {
+        "id": "55",
+        "source": "meleesheik",
+        "destination": "discord.gg/tkwQs8v",
+        "name": "Sheik",
+        "votes": "13",
+        "voted": [
+          "407120766459707392",
+          "510080595448037386",
+          "584100853623947264",
+          "172478691916382208",
+          "271662146465693698",
+          "350101518789115904",
+          "507410244754735121",
+          "694977522773000253",
+          "842410187885117440",
+          "343821279801114634",
+          "552312984287051777",
+          "810774850783150100",
+          "975316946725797948"
+        ],
+        "image": "smashcords.com/images/1538446492634.0918.jpeg",
+        "description": "For Sheik players",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T02:19:51.548Z",
+          "updatedAt": "2018-10-02T02:19:51.548Z",
+          "CategoryId": "7",
+          "ReferralId": "55"
+        }
+      },
+      {
+        "id": "54",
+        "source": "meleesamus",
+        "destination": "discord.gg/M3nS3kR",
+        "name": "Samus",
+        "votes": "8",
+        "voted": [
+          "450496790807052298",
+          "287410458778927104",
+          "491271797153464361",
+          "410673868194316288",
+          "238881695682658305",
+          "507410244754735121",
+          "119561379936993281",
+          "582657434506494058"
+        ],
+        "image": "smashcords.com/images/1538446462097.8926.jpeg",
+        "description": "For Samus players",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T02:19:51.548Z",
+          "updatedAt": "2018-10-02T02:19:51.548Z",
+          "CategoryId": "7",
+          "ReferralId": "54"
+        }
+      },
+      {
+        "id": "53",
+        "source": "meleeroy",
+        "destination": "discord.gg/0qT5OfmhEdgeH20c",
+        "name": "Roy",
+        "votes": "4",
+        "voted": [
+          "498459332757946369",
+          "327278790411550720",
+          "507410244754735121",
+          "521808386262827008"
+        ],
+        "image": "smashcords.com/images/1538446432799.4802.jpeg",
+        "description": "For Roy players",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T02:19:51.548Z",
+          "updatedAt": "2018-10-02T02:19:51.548Z",
+          "CategoryId": "7",
+          "ReferralId": "53"
+        }
+      },
+      {
+        "id": "52",
+        "source": "meleepikachu",
+        "destination": "discord.gg/011MkPNW8vetImT1W",
+        "name": "Pikachu",
+        "votes": "10",
+        "voted": [
+          "97298952453382144",
+          "187741863858536448",
+          "536695261364224040",
+          "303290933124792332",
+          "325349854551474178",
+          "203041582230798336",
+          "398572118188752916",
+          "350449152209059841",
+          "507410244754735121",
+          "770213492161642516"
+        ],
+        "image": "smashcords.com/images/1538446404877.5574.jpeg",
+        "description": "For Pikachu players",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T02:19:51.548Z",
+          "updatedAt": "2018-10-02T02:19:51.548Z",
+          "CategoryId": "7",
+          "ReferralId": "52"
+        }
+      },
+      {
+        "id": "51",
+        "source": "meleepichu",
+        "destination": "discord.gg/bzD5Pfc",
+        "name": "Pichu",
+        "votes": "7",
+        "voted": [
+          "584100853623947264",
+          "202237590819045376",
+          "327278790411550720",
+          "507410244754735121",
+          "586980765603201025",
+          "770213492161642516",
+          "842410187885117440"
+        ],
+        "image": "smashcords.com/images/1538446359320.9067.jpeg",
+        "description": "For Pichu players",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T02:19:51.548Z",
+          "updatedAt": "2018-10-02T02:19:51.548Z",
+          "CategoryId": "7",
+          "ReferralId": "51"
+        }
+      },
+      {
+        "id": "50",
+        "source": "meleepeach",
+        "destination": "discord.gg/ny8gyWk5Qf",
+        "name": "Peach",
+        "votes": "17",
+        "voted": [
+          "341698923804491776",
+          "407120766459707392",
+          "214814554188677120",
+          "503904310979985409",
+          "152089465634947072",
+          "181170718828920832",
+          "584100853623947264",
+          "303290933124792332",
+          "339068961587068949",
+          "639063141925257216",
+          "225724814885781504",
+          "295369358174191616",
+          "246277749705015296",
+          "507410244754735121",
+          "478631634485116940",
+          "196098537535045632",
+          "217013873725669376"
+        ],
+        "image": "smashcords.com/images/1538446330391.3647.jpeg",
+        "description": "For Peach players",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T02:19:51.548Z",
+          "updatedAt": "2018-10-02T02:19:51.548Z",
+          "CategoryId": "7",
+          "ReferralId": "50"
+        }
+      },
+      {
+        "id": "49",
+        "source": "meleeness",
+        "destination": "discord.gg/011MSaTVv85q69DV5",
+        "name": "Ness",
+        "votes": "6",
+        "voted": [
+          "316365957419368448",
+          "327278790411550720",
+          "301220383770542080",
+          "507410244754735121",
+          "555875380007927822",
+          "770213492161642516"
+        ],
+        "image": "smashcords.com/images/1538446301849.961.jpeg",
+        "description": "For Ness players",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T02:19:51.548Z",
+          "updatedAt": "2018-10-02T02:19:51.548Z",
+          "CategoryId": "7",
+          "ReferralId": "49"
+        }
+      },
+      {
+        "id": "48",
+        "source": "meleegameandwatch",
+        "destination": "discord.gg/011LmbPc0LSeiNS0V",
+        "name": "Mr Game and Watch",
+        "votes": "6",
+        "voted": [
+          "584100853623947264",
+          "272213839141928960",
+          "98964283727032320",
+          "654734973768826880",
+          "360571848955789313",
+          "507410244754735121"
+        ],
+        "image": "smashcords.com/images/1538446274703.6177.jpeg",
+        "description": "For Mr Game and Watch players",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T02:19:51.548Z",
+          "updatedAt": "2018-10-02T02:19:51.548Z",
+          "CategoryId": "7",
+          "ReferralId": "48"
+        }
+      },
+      {
+        "id": "47",
+        "source": "meleemewtwo",
+        "destination": "discord.gg/5cS8eeT",
+        "name": "Mewtwo",
+        "votes": "3",
+        "voted": [
+          "221129021306568706",
+          "290996442779090974",
+          "507410244754735121"
+        ],
+        "image": "smashcords.com/images/1538446238808.2554.jpeg",
+        "description": "For Mewtwo players",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T02:19:51.548Z",
+          "updatedAt": "2018-10-02T02:19:51.548Z",
+          "CategoryId": "7",
+          "ReferralId": "47"
+        }
+      },
+      {
+        "id": "46",
+        "source": "meleemarth",
+        "destination": "discord.gg/01352PHCHms6PyCv9",
+        "name": "Marth",
+        "votes": "23",
+        "voted": [
+          "407120766459707392",
+          "566075852064817187",
+          "124097193874423808",
+          "105463435277389824",
+          "303290933124792332",
+          "160198608321380352",
+          "135435622700679168",
+          "202651394770075648",
+          "210840357280284673",
+          "324416056359911425",
+          "93095779509506048",
+          "275776141069910017",
+          "489916433564958720",
+          "404492415152422914",
+          "511214193404543011",
+          "258205615682355200",
+          "171304712404992000",
+          "507410244754735121",
+          "392703441517936643",
+          "256779297090568194",
+          "566404494737408001",
+          "634514277260197889",
+          "676520910353596476"
+        ],
+        "image": "smashcords.com/images/1538446182010.0537.jpeg",
+        "description": "For Marth players",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T02:19:51.548Z",
+          "updatedAt": "2018-10-02T02:19:51.548Z",
+          "CategoryId": "7",
+          "ReferralId": "46"
+        }
+      },
+      {
+        "id": "45",
+        "source": "meleemario",
+        "destination": "discord.gg/011DBAILLCrymRCgS",
+        "name": "Mario",
+        "votes": "8",
+        "voted": [
+          "207554221522944001",
+          "314479357618028545",
+          "327278790411550720",
+          "207013386674765825",
+          "507410244754735121",
+          "770213492161642516",
+          "827255608138661888",
+          "552312984287051777"
+        ],
+        "image": "smashcords.com/images/1538446146933.2583.jpeg",
+        "description": "For Mario players",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T02:19:51.548Z",
+          "updatedAt": "2018-10-02T02:19:51.548Z",
+          "CategoryId": "7",
+          "ReferralId": "45"
+        }
+      },
+      {
+        "id": "43",
+        "source": "meleelink",
+        "destination": "discord.gg/HQfW88DUQK",
+        "name": "Link",
+        "votes": "3",
+        "voted": [
+          "327278790411550720",
+          "309825138025562112",
+          "507410244754735121"
+        ],
+        "image": "smashcords.com/images/1538446080528.6826.jpeg",
+        "description": "For Link players",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T02:19:51.548Z",
+          "updatedAt": "2018-10-02T02:19:51.548Z",
+          "CategoryId": "7",
+          "ReferralId": "43"
+        }
+      },
+      {
+        "id": "33",
+        "source": "meleebowser",
+        "destination": "discord.gg/4jpjZkB",
+        "name": "Bowser",
+        "votes": "4",
+        "voted": [
+          "72868870624378880",
+          "172478691916382208",
+          "303290933124792332",
+          "507410244754735121"
+        ],
+        "image": "smashcords.com/images/1538445516552.0642.jpeg",
+        "description": "For Bowser players",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T02:19:51.548Z",
+          "updatedAt": "2018-10-02T02:19:51.548Z",
+          "CategoryId": "7",
+          "ReferralId": "33"
+        }
+      },
+      {
+        "id": "435",
+        "source": "meleecaptainfalcon",
+        "destination": "discord.gg/DEY5p65",
+        "name": "Captain Falcon",
+        "votes": "22",
+        "voted": [
+          "122563598340849664",
+          "313079060894842881",
+          "139788721254825984",
+          "159337400479252480",
+          "145403559217856513",
+          "120303556405231616",
+          "126122567881719809",
+          "220713345995505664",
+          "156577508370677760",
+          "91983810983366656",
+          "97298952453382144",
+          "470327464254504960",
+          "287659432152793093",
+          "303290933124792332",
+          "339068961587068949",
+          "406705579583602688",
+          "217472385748697110",
+          "393950827712217091",
+          "425134485408055296",
+          "507410244754735121",
+          "770213492161642516",
+          "676520910353596476"
+        ],
+        "image": "smashcords.com/images/1545893071262.5242.png",
+        "description": "For Melee Captain Falcon players",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-12-27T06:45:02.497Z",
+          "updatedAt": "2018-12-27T06:45:02.497Z",
+          "CategoryId": "7",
+          "ReferralId": "435"
+        }
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Melee General",
+    "type": "melee",
+    "createdAt": "2018-10-01T04:35:17.972Z",
+    "updatedAt": "2018-10-01T04:35:17.972Z",
+    "Servers": [
+      {
+        "id": "59",
+        "source": "meleecs",
+        "destination": "discord.gg/XC4ZJMQ6hJ",
+        "name": "Controller Support",
+        "votes": "2",
+        "voted": [
+          "397111846957481996",
+          "324416056359911425"
+        ],
+        "image": "smashcords.com/images/1538447306837.741.png",
+        "description": "For help setting up your controller",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T02:37:12.791Z",
+          "updatedAt": "2018-10-02T02:37:12.791Z",
+          "CategoryId": "8",
+          "ReferralId": "59"
+        }
+      },
+      {
+        "id": "60",
+        "source": "meleedoubles",
+        "destination": "discord.gg/013gWovGrRpXOvOfD",
+        "name": "Melee Doubles",
+        "votes": "0",
+        "voted": [
+        ],
+        "image": "smashcords.com/images/1538447357252.246.jpeg",
+        "description": "For netplay Melee doubles matches",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T02:37:12.791Z",
+          "updatedAt": "2018-10-02T02:37:12.791Z",
+          "CategoryId": "8",
+          "ReferralId": "60"
+        }
+      },
+      {
+        "id": "61",
+        "source": "meleelight",
+        "destination": "discord.gg/tT6dqBH",
+        "name": "Melee Light",
+        "votes": "3",
+        "voted": [
+          "488631516381839360",
+          "182981392605511680",
+          "514472240272637971"
+        ],
+        "image": "smashcords.com/images/1538447434591.768.jpeg",
+        "description": "Fan game Melee Light server",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T02:37:12.791Z",
+          "updatedAt": "2018-10-02T02:37:12.791Z",
+          "CategoryId": "8",
+          "ReferralId": "61"
+        }
+      },
+      {
+        "id": "63",
+        "source": "meleemodding",
+        "destination": "discord.gg/zUqmt8u",
+        "name": "Melee Modding",
+        "votes": "1",
+        "voted": [
+          "648922563086516225"
+        ],
+        "image": "smashcords.com/images/1538447581129.911.png",
+        "description": "For those interested in modding Melee",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T02:37:12.791Z",
+          "updatedAt": "2018-10-02T02:37:12.791Z",
+          "CategoryId": "8",
+          "ReferralId": "63"
+        }
+      },
+      {
+        "id": "64",
+        "source": "customgcc",
+        "destination": "discord.gg/HXqBxKP",
+        "name": "Custom GCC",
+        "votes": "4",
+        "voted": [
+          "187741863858536448",
+          "563818024994471968",
+          "324416056359911425",
+          "549796280667471901"
+        ],
+        "image": "smashcords.com/images/1538447804360.628.png",
+        "description": "For modding and customizing your GCC",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T02:37:12.791Z",
+          "updatedAt": "2018-10-02T02:37:12.791Z",
+          "CategoryId": "8",
+          "ReferralId": "64"
+        }
+      },
+      {
+        "id": "287",
+        "source": "smashbox",
+        "destination": "discord.gg/YpjmcHr",
+        "name": "Smashbox",
+        "votes": "0",
+        "voted": [
+        ],
+        "image": "smashcords.com/images/1538677790496.2007.png",
+        "description": "Home of the Smashbox controller",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-04T19:42:33.388Z",
+          "updatedAt": "2018-10-04T19:42:33.388Z",
+          "CategoryId": "8",
+          "ReferralId": "287"
+        }
+      },
+      {
+        "id": "392",
+        "source": "smashcords",
+        "destination": "discord.gg/a7xecU5",
+        "name": "Smashcords",
+        "votes": "39",
+        "voted": [
+          "84484653687267328",
+          "96298826394005504",
+          "227172839059488768",
+          "395391564702023682",
+          "445174759773306880",
+          "207554221522944001",
+          "420120213967732737",
+          "218492141482016768",
+          "199151235117350912",
+          "474127710088855552",
+          "263485646478245888",
+          "279711478192537602",
+          "169141619260391425",
+          "147520380616048640",
+          "417934075815526413",
+          "473997845364604929",
+          "305841803712790528",
+          "550361530579943435",
+          "210581661849485313",
+          "473960865847050244",
+          "260988263072792587",
+          "225078306293284864",
+          "391608212409024512",
+          "419327629053919233",
+          "231336101292408832",
+          "537452568285282322",
+          "379382203328757772",
+          "314788965037113346",
+          "615614879864193030",
+          "271333607161856002",
+          "460484192166346795",
+          "657949248209551360",
+          "249458432036438016",
+          "189083237493112833",
+          "564582037969698836",
+          "335967204342497290",
+          "648922563086516225",
+          "712534712614125578",
+          "387268861155606528"
+        ],
+        "image": "smashcords.com/images/1542131567221.0168.png",
+        "description": "The central hub for all Smashcord servers",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-11-13T18:00:47.074Z",
+          "updatedAt": "2018-11-13T18:00:47.074Z",
+          "CategoryId": "8",
+          "ReferralId": "392"
+        }
+      },
+      {
+        "id": "393",
+        "source": "smashladder",
+        "destination": "discord.gg/jbntywy",
+        "name": "SmashLadder",
+        "votes": "20",
+        "voted": [
+          "84484653687267328",
+          "485777138767757343",
+          "273466549166276608",
+          "263485646478245888",
+          "176680106209574915",
+          "169141619260391425",
+          "305841803712790528",
+          "397111846957481996",
+          "296052077589954571",
+          "200288138382409728",
+          "181476212961443840",
+          "494600378021707778",
+          "370369083289632778",
+          "324416056359911425",
+          "538526722975465493",
+          "460484192166346795",
+          "249521750465970177",
+          "415293156863508480",
+          "233495157306163200",
+          "98415594264592384"
+        ],
+        "image": "smashcords.com/images/1542145065418.3933.png",
+        "description": "Matchmaking and ranking system for all games",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-11-13T21:39:47.254Z",
+          "updatedAt": "2018-11-13T21:39:47.254Z",
+          "CategoryId": "8",
+          "ReferralId": "393"
+        }
+      },
+      {
+        "id": "455",
+        "source": "teamliquid",
+        "destination": "discord.gg/teamliquid",
+        "name": "Team Liquid",
+        "votes": "5",
+        "voted": [
+          "113078084965584896",
+          "94244686784364544",
+          "615614879864193030",
+          "747495771519189085",
+          "229169880203657216"
+        ],
+        "image": "smashcords.com/images/1553978812860.0103.png",
+        "description": "Official server for Team Liquid esports Organization Hosting weekly online tournaments Liquid Smash League Viewing parties for tournaments and discussions about pro and casual play",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2019-04-03T04:58:07.410Z",
+          "updatedAt": "2019-04-03T04:58:07.410Z",
+          "CategoryId": "8",
+          "ReferralId": "455"
+        }
+      },
+      {
+        "id": "503",
+        "source": "meleelowtier",
+        "destination": "discord.gg/MDFFWHe",
+        "name": "Low Mid Tier Club",
+        "votes": "0",
+        "voted": [
+        ],
+        "image": "smashcords.com/images/1588996209448.6814.png",
+        "description": "A server dedicated to optimizing low and mid tiers and labbing them out to their fullest potential",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2020-05-09T03:50:24.202Z",
+          "updatedAt": "2020-05-09T03:50:24.202Z",
+          "CategoryId": "8",
+          "ReferralId": "503"
+        }
+      },
+      {
+        "id": "505",
+        "source": "stellas",
+        "destination": "discord.gg/HbEPynR",
+        "name": "Stellas Army",
+        "votes": "0",
+        "voted": [
+        ],
+        "image": "smashcords.com/images/1589003829580.7517.gif",
+        "description": "Melee Netplay Hub for West Coast and nearby regions",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2020-05-09T05:57:33.206Z",
+          "updatedAt": "2020-05-09T05:57:33.206Z",
+          "CategoryId": "8",
+          "ReferralId": "505"
+        }
+      },
+      {
+        "id": "516",
+        "source": "newbienetplay",
+        "destination": "discord.gg/RcVaemu",
+        "name": "Newbie Netplay",
+        "votes": "0",
+        "voted": [
+        ],
+        "image": "smashcords.com/images/1613416018987.7317.png",
+        "description": "A melee server for people to help out newer players get better",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2021-02-15T19:07:31.234Z",
+          "updatedAt": "2021-02-15T19:07:31.234Z",
+          "CategoryId": "8",
+          "ReferralId": "516"
+        }
+      },
+      {
+        "id": "539",
+        "source": "icslippi",
+        "destination": "discord.gg/VR4k5BT",
+        "name": "Intercollegiate Slippi",
+        "votes": "0",
+        "voted": [
+        ],
+        "image": "smashcords.com/images/1615171748501.1775.png",
+        "description": "The server for the Intercollegiate Slippi Discord",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2021-03-08T02:50:01.086Z",
+          "updatedAt": "2021-03-08T02:50:01.086Z",
+          "CategoryId": "8",
+          "ReferralId": "539"
+        }
+      },
+      {
+        "id": "550",
+        "source": "smashtower",
+        "destination": "discord.gg/ZYcWHRsDps",
+        "name": "Smash Tower",
+        "votes": "0",
+        "voted": [
+        ],
+        "image": "smashcords.com/images/1623807605153.651.png",
+        "description": "The home for the Smash Tower website",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2021-06-16T01:51:14.154Z",
+          "updatedAt": "2021-06-16T01:51:14.154Z",
+          "CategoryId": "8",
+          "ReferralId": "550"
+        }
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Melee Local",
+    "type": "melee",
+    "createdAt": "2018-10-01T04:36:15.528Z",
+    "updatedAt": "2018-10-01T04:36:15.528Z",
+    "Servers": [
+      {
+        "id": "65",
+        "source": "meleeitaly",
+        "destination": "discord.gg/bYzWsNQ",
+        "name": "Italy",
+        "votes": "1",
+        "voted": [
+          "596354651599667211"
+        ],
+        "image": "smashcords.com/images/1538448450693.466.png",
+        "description": "The local discord for the Italy scene",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T04:02:37.707Z",
+          "updatedAt": "2018-10-02T04:02:37.707Z",
+          "CategoryId": "10",
+          "ReferralId": "65"
+        }
+      },
+      {
+        "id": "66",
+        "source": "meleeswiss",
+        "destination": "discord.gg/yhPfUQz",
+        "name": "Switzerland",
+        "votes": "0",
+        "voted": [
+        ],
+        "image": "smashcords.com/images/1538448578803.3584.png",
+        "description": "The local discord for the Switzerland scene",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T04:02:37.707Z",
+          "updatedAt": "2018-10-02T04:02:37.707Z",
+          "CategoryId": "10",
+          "ReferralId": "66"
+        }
+      },
+      {
+        "id": "67",
+        "source": "meleegermany",
+        "destination": "discord.gg/4mH8CpV",
+        "name": "Germany",
+        "votes": "1",
+        "voted": [
+          "214861303116857347"
+        ],
+        "image": "smashcords.com/images/1538448719788.6726.jpeg",
+        "description": "The local discord for the Germany scene",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T04:02:37.707Z",
+          "updatedAt": "2018-10-02T04:02:37.707Z",
+          "CategoryId": "10",
+          "ReferralId": "67"
+        }
+      },
+      {
+        "id": "68",
+        "source": "meleemaine",
+        "destination": "discord.gg/588NgYq",
+        "name": "Maine",
+        "votes": "1",
+        "voted": [
+          "313079060894842881"
+        ],
+        "image": "smashcords.com/images/1538448771740.6543.jpeg",
+        "description": "The local server for the Maine scene",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T04:02:37.707Z",
+          "updatedAt": "2018-10-02T04:02:37.707Z",
+          "CategoryId": "10",
+          "ReferralId": "68"
+        }
+      },
+      {
+        "id": "69",
+        "source": "meleearizona",
+        "destination": "discord.gg/rRg7u6q",
+        "name": "Arizona",
+        "votes": "4",
+        "voted": [
+          "83443445632339968",
+          "339068961587068949",
+          "126122567881719809",
+          "194382661719031809"
+        ],
+        "image": "smashcords.com/images/1538448932362.4941.jpeg",
+        "description": "The local server for the Arizona scene",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T04:02:37.707Z",
+          "updatedAt": "2018-10-02T04:02:37.707Z",
+          "CategoryId": "10",
+          "ReferralId": "69"
+        }
+      },
+      {
+        "id": "70",
+        "source": "meleenordic",
+        "destination": "discord.gg/JTvCqQZ",
+        "name": "Nordic",
+        "votes": "0",
+        "voted": [
+        ],
+        "image": "smashcords.com/images/1538449081117.3225.png",
+        "description": "The local server for the Nordic regions scene",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T04:02:37.707Z",
+          "updatedAt": "2018-10-02T04:02:37.707Z",
+          "CategoryId": "10",
+          "ReferralId": "70"
+        }
+      },
+      {
+        "id": "71",
+        "source": "meleealabama",
+        "destination": "discord.com/invite/TGDsYuEBUm",
+        "name": "Alabama",
+        "votes": "3",
+        "voted": [
+          "389979885453443072",
+          "757267819350982667",
+          "496430770173378581"
+        ],
+        "image": "smashcords.com/images/1538449163172.6257.jpeg",
+        "description": "The local server for the Alabama scene",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T04:02:37.707Z",
+          "updatedAt": "2018-10-02T04:02:37.707Z",
+          "CategoryId": "10",
+          "ReferralId": "71"
+        }
+      },
+      {
+        "id": "72",
+        "source": "meleealberta",
+        "destination": "discord.gg/0qbRG0NJUawdBYcq",
+        "name": "Alberta",
+        "votes": "3",
+        "voted": [
+          "470327464254504960",
+          "255533547161518080",
+          "511649588055375883"
+        ],
+        "image": "smashcords.com/images/1538449198729.586.jpeg",
+        "description": "The local server for the Alberta scene",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T04:02:37.707Z",
+          "updatedAt": "2018-10-02T04:02:37.707Z",
+          "CategoryId": "10",
+          "ReferralId": "72"
+        }
+      },
+      {
+        "id": "73",
+        "source": "meleeaustralia",
+        "destination": "discord.gg/3PKC5qu",
+        "name": "Australia",
+        "votes": "1",
+        "voted": [
+          "73336881655316480"
+        ],
+        "image": "smashcords.com/images/1538449270652.283.jpeg",
+        "description": "The local server for the Australia scene",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T04:02:37.707Z",
+          "updatedAt": "2018-10-02T04:02:37.707Z",
+          "CategoryId": "10",
+          "ReferralId": "73"
+        }
+      },
+      {
+        "id": "74",
+        "source": "meleebelgium",
+        "destination": "discord.gg/0W4hwWkt5MSSNhdJ",
+        "name": "Belgium",
+        "votes": "1",
+        "voted": [
+          "125212288763428864"
+        ],
+        "image": "smashcords.com/images/1538449518790.915.jpeg",
+        "description": "The local server for the Belgium scene",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T04:02:37.707Z",
+          "updatedAt": "2018-10-02T04:02:37.707Z",
+          "CategoryId": "10",
+          "ReferralId": "74"
+        }
+      },
+      {
+        "id": "75",
+        "source": "meleebrazil",
+        "destination": "discord.gg/6SH9kP7",
+        "name": "Brazil",
+        "votes": "7",
+        "voted": [
+          "135073340674146304",
+          "385947237982797824",
+          "134710843731345408",
+          "335859443197673472",
+          "211686240003686400",
+          "121254572185485314",
+          "298138165091368962"
+        ],
+        "image": "smashcords.com/images/1554746961488.0564.png",
+        "description": "The local server for the Brazil scene",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T04:02:37.707Z",
+          "updatedAt": "2018-10-02T04:02:37.707Z",
+          "CategoryId": "10",
+          "ReferralId": "75"
+        }
+      },
+      {
+        "id": "76",
+        "source": "california",
+        "destination": "discord.gg/0xjd7CXWZTTsg10I",
+        "name": "California",
+        "votes": "3",
+        "voted": [
+          "629908859233763328",
+          "124390626409054208",
+          "194382661719031809"
+        ],
+        "image": "smashcords.com/images/1538449633648.1973.jpeg",
+        "description": "The local server for the California scene",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T04:02:37.707Z",
+          "updatedAt": "2018-10-02T04:02:37.707Z",
+          "CategoryId": "10",
+          "ReferralId": "76"
+        }
+      },
+      {
+        "id": "77",
+        "source": "831",
+        "destination": "discord.gg/w3X6vsU",
+        "name": "California 831",
+        "votes": "0",
+        "voted": [
+        ],
+        "image": "smashcords.com/images/1538449743368.8398.png",
+        "description": "The local server for the 831 district of California",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T04:02:37.707Z",
+          "updatedAt": "2018-10-02T04:02:37.707Z",
+          "CategoryId": "10",
+          "ReferralId": "77"
+        }
+      },
+      {
+        "id": "78",
+        "source": "meleeconnecticut",
+        "destination": "discord.gg/3Bwf5EG",
+        "name": "Connecticut",
+        "votes": "0",
+        "voted": [
+        ],
+        "image": "smashcords.com/images/1538449891316.6055.jpeg",
+        "description": "The local server for the Connecticut scene",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T04:02:37.707Z",
+          "updatedAt": "2018-10-02T04:02:37.707Z",
+          "CategoryId": "10",
+          "ReferralId": "78"
+        }
+      },
+      {
+        "id": "79",
+        "source": "meleefrance",
+        "destination": "discord.gg/Jj3gdnNvyN",
+        "name": "France",
+        "votes": "6",
+        "voted": [
+          "207554221522944001",
+          "156577508370677760",
+          "124097193874423808",
+          "376321007583232002",
+          "770213492161642516",
+          "311990814190600193"
+        ],
+        "image": "smashcords.com/images/1538449981854.5837.jpeg",
+        "description": "The local server for the France scene",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T04:02:37.707Z",
+          "updatedAt": "2018-10-02T04:02:37.707Z",
+          "CategoryId": "10",
+          "ReferralId": "79"
+        }
+      },
+      {
+        "id": "80",
+        "source": "meleehawaii",
+        "destination": "discord.gg/RXuFHeU",
+        "name": "Hawaii",
+        "votes": "1",
+        "voted": [
+          "716493852730458142"
+        ],
+        "image": "smashcords.com/images/1538450020936.7559.png",
+        "description": "The local server for the Hawaii scene",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T04:02:37.707Z",
+          "updatedAt": "2018-10-02T04:02:37.707Z",
+          "CategoryId": "10",
+          "ReferralId": "80"
+        }
+      },
+      {
+        "id": "81",
+        "source": "meleeidaho",
+        "destination": "discord.gg/nNSpjjp",
+        "name": "Idaho",
+        "votes": "0",
+        "voted": [
+        ],
+        "image": "smashcords.com/images/1538450068914.325.jpeg",
+        "description": "The local server for the Idaho scene",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T04:02:37.707Z",
+          "updatedAt": "2018-10-02T04:02:37.707Z",
+          "CategoryId": "10",
+          "ReferralId": "81"
+        }
+      },
+      {
+        "id": "82",
+        "source": "meleemdva",
+        "destination": "discord.gg/3b4qbHQ",
+        "name": "MDVA",
+        "votes": "8",
+        "voted": [
+          "203288528132505600",
+          "314526879162040320",
+          "420972313584861185",
+          "149951192166825984",
+          "209792423583416321",
+          "107617314949574656",
+          "147013273147932672",
+          "165843567200174080"
+        ],
+        "image": "smashcords.com/images/1538450113222.379.png",
+        "description": "The local server for the MDVA scene",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T04:02:37.707Z",
+          "updatedAt": "2018-10-02T04:02:37.707Z",
+          "CategoryId": "10",
+          "ReferralId": "82"
+        }
+      },
+      {
+        "id": "84",
+        "source": "meleenetherlands",
+        "destination": "discord.gg/QJ5wT2Q",
+        "name": "Netherlands",
+        "votes": "0",
+        "voted": [
+        ],
+        "image": "smashcords.com/images/1538450228414.2793.jpeg",
+        "description": "The local server for the Netherlands scene",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T04:02:37.707Z",
+          "updatedAt": "2018-10-02T04:02:37.707Z",
+          "CategoryId": "10",
+          "ReferralId": "84"
+        }
+      },
+      {
+        "id": "86",
+        "source": "meleesaskatchewan",
+        "destination": "discord.gg/0gdqWUAIRrh429dZ?",
+        "name": "Saskatchewan",
+        "votes": "1",
+        "voted": [
+          "372771360327598081"
+        ],
+        "image": "smashcords.com/images/1538450327321.8652.jpeg",
+        "description": "The local server for the Saskatchewan scene",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T04:02:37.707Z",
+          "updatedAt": "2018-10-02T04:02:37.707Z",
+          "CategoryId": "10",
+          "ReferralId": "86"
+        }
+      },
+      {
+        "id": "87",
+        "source": "meleespain",
+        "destination": "discord.gg/EyQ4vjF",
+        "name": "Spain",
+        "votes": "3",
+        "voted": [
+          "584100853623947264",
+          "559037361598627840",
+          "206542779122319360"
+        ],
+        "image": "smashcords.com/images/1538450453675.5566.png",
+        "description": "The local server for the Spain scene",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T04:02:37.707Z",
+          "updatedAt": "2018-10-02T04:02:37.707Z",
+          "CategoryId": "10",
+          "ReferralId": "87"
+        }
+      },
+      {
+        "id": "90",
+        "source": "ssbvermont",
+        "destination": "discord.gg/0qYv7iIgQ4T29jus",
+        "name": "Vermont",
+        "votes": "1",
+        "voted": [
+          "272365247418073088"
+        ],
+        "image": "smashcords.com/images/1538450692750.16.jpeg",
+        "description": "The local server for the Vermont scene",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T04:02:37.707Z",
+          "updatedAt": "2018-10-02T04:02:37.707Z",
+          "CategoryId": "10",
+          "ReferralId": "90"
+        }
+      },
+      {
+        "id": "91",
+        "source": "finland",
+        "destination": "discord.gg/fCdqmEz",
+        "name": "Finland",
+        "votes": "3",
+        "voted": [
+          "193052034080047105",
+          "377174419665059850",
+          "227398069627518976"
+        ],
+        "image": "smashcords.com/images/1538450832646.86.png",
+        "description": "The local server for the Finland scene",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T04:02:37.707Z",
+          "updatedAt": "2018-10-02T04:02:37.707Z",
+          "CategoryId": "10",
+          "ReferralId": "91"
+        }
+      },
+      {
+        "id": "85",
+        "source": "meleeportugal",
+        "destination": "discord.gg/GsMyUDs",
+        "name": "Portugal",
+        "votes": "1",
+        "voted": [
+          "99929867583234048"
+        ],
+        "image": "smashcords.com/images/1538450274461.352.png",
+        "description": "The local server for the Portugal scene",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T04:02:37.707Z",
+          "updatedAt": "2018-10-02T04:02:37.707Z",
+          "CategoryId": "10",
+          "ReferralId": "85"
+        }
+      },
+      {
+        "id": "92",
+        "source": "meleedenmark",
+        "destination": "discord.gg/cbSQX6f",
+        "name": "Denmark",
+        "votes": "0",
+        "voted": [
+        ],
+        "image": "smashcords.com/images/1538451368022.6506.png",
+        "description": "The local server for the Denmark scene",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T04:02:37.707Z",
+          "updatedAt": "2018-10-02T04:02:37.707Z",
+          "CategoryId": "10",
+          "ReferralId": "92"
+        }
+      },
+      {
+        "id": "89",
+        "source": "meleeutah",
+        "destination": "discord.gg/NHEvtUK",
+        "name": "Utah",
+        "votes": "0",
+        "voted": [
+        ],
+        "image": "smashcords.com/images/1538450656483.6604.jpeg",
+        "description": "The local server for the Utah scene",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T04:02:37.707Z",
+          "updatedAt": "2018-10-02T04:02:37.707Z",
+          "CategoryId": "10",
+          "ReferralId": "89"
+        }
+      },
+      {
+        "id": "93",
+        "source": "meleenewhaven",
+        "destination": "discord.gg/Ymu8qWC",
+        "name": "Connecticut New Haven",
+        "votes": "0",
+        "voted": [
+        ],
+        "image": "smashcords.com/images/1538451547020.268.png",
+        "description": "The local server for the South Connecticut and New Haven scene",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T04:02:37.707Z",
+          "updatedAt": "2018-10-02T04:02:37.707Z",
+          "CategoryId": "10",
+          "ReferralId": "93"
+        }
+      },
+      {
+        "id": "94",
+        "source": "meleeargentina",
+        "destination": "discord.gg/Cz3fW3b",
+        "name": "Argentina",
+        "votes": "2",
+        "voted": [
+          "232902168611520512",
+          "98589963070746624"
+        ],
+        "image": "smashcords.com/images/1538683713208.93.png",
+        "description": "The local server for the Argentina scene",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T04:02:37.707Z",
+          "updatedAt": "2018-10-02T04:02:37.707Z",
+          "CategoryId": "10",
+          "ReferralId": "94"
+        }
+      },
+      {
+        "id": "291",
+        "source": "meleeuk",
+        "destination": "discord.gg/XHxs4Td",
+        "name": "United Kingdom",
+        "votes": "1",
+        "voted": [
+          "330659615068913670"
+        ],
+        "image": "smashcords.com/images/1538680677719.5913.png",
+        "description": "The local discord for the UK Melee scene",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-04T19:18:15.896Z",
+          "updatedAt": "2018-10-04T19:18:15.896Z",
+          "CategoryId": "10",
+          "ReferralId": "291"
+        }
+      },
+      {
+        "id": "456",
+        "source": "meleeneoh",
+        "destination": "discord.gg/EePMVET",
+        "name": "North East Ohio",
+        "votes": "0",
+        "voted": [
+        ],
+        "image": "smashcords.com/images/1553983506914.0547.png",
+        "description": "For the North East Ohio scene",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2019-04-03T04:58:07.331Z",
+          "updatedAt": "2019-04-03T04:58:07.331Z",
+          "CategoryId": "10",
+          "ReferralId": "456"
+        }
+      },
+      {
+        "id": "462",
+        "source": "meleenb",
+        "destination": "discord.gg/wC7zVqM",
+        "name": "New Brunswick",
+        "votes": "1",
+        "voted": [
+          "95248125979004928"
+        ],
+        "image": "smashcords.com/images/1554744902772.6582.png",
+        "description": "The local discord for the New Brunswick scene",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2019-04-08T17:35:18.991Z",
+          "updatedAt": "2019-04-08T17:35:18.991Z",
+          "CategoryId": "10",
+          "ReferralId": "462"
+        }
+      },
+      {
+        "id": "257",
+        "source": "newmexico",
+        "destination": "discord.gg/BrgCCwK",
+        "name": "New Mexico",
+        "votes": "2",
+        "voted": [
+          "137383591360331776",
+          "130935369129525249"
+        ],
+        "image": "smashcords.com/images/1538584001113.4182.jpeg",
+        "description": "For New Mexico Smash Players",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2019-09-15T03:41:13.529Z",
+          "updatedAt": "2019-09-15T03:41:13.529Z",
+          "CategoryId": "10",
+          "ReferralId": "257"
+        }
+      },
+      {
+        "id": "475",
+        "source": "njssbm",
+        "destination": "discord.gg/MFGgXrt",
+        "name": "New Jersey SSBM",
+        "votes": "1",
+        "voted": [
+          "91658459027611648"
+        ],
+        "image": "smashcords.com/images/1568648214521.8906.png",
+        "description": "New Jersey SSBM Discord server",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2019-09-16T15:38:10.970Z",
+          "updatedAt": "2019-09-16T15:38:10.970Z",
+          "CategoryId": "10",
+          "ReferralId": "475"
+        }
+      },
+      {
+        "id": "477",
+        "source": "southcarolina",
+        "destination": "discord.gg/QwuN52c",
+        "name": "South Carolina Smash",
+        "votes": "6",
+        "voted": [
+          "162938084906762241",
+          "345956540827697153",
+          "299498358379118593",
+          "355413571888349185",
+          "190656810158522369",
+          "589343969935097866"
+        ],
+        "image": "smashcords.com/images/1568648867315.7405.png",
+        "description": "For South Calorina Smash Players",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2019-09-16T15:48:37.002Z",
+          "updatedAt": "2019-09-16T15:48:37.002Z",
+          "CategoryId": "10",
+          "ReferralId": "477"
+        }
+      },
+      {
+        "id": "482",
+        "source": "slongislandny",
+        "destination": "discord.gg/4FSsZj4",
+        "name": "Long Island New York",
+        "votes": "11",
+        "voted": [
+          "99057843331670016",
+          "325349854551474178",
+          "212069863374585856",
+          "406705579583602688",
+          "179384915429687296",
+          "266536925798596608",
+          "186542508803751936",
+          "192737481735667713",
+          "481527617892384780",
+          "368836000761380884",
+          "833441925972492310"
+        ],
+        "image": "smashcords.com/images/1577742668890.7888.png",
+        "description": "For the Long Island community at New York",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2019-12-30T21:52:18.975Z",
+          "updatedAt": "2019-12-30T21:52:18.975Z",
+          "CategoryId": "10",
+          "ReferralId": "482"
+        }
+      },
+      {
+        "id": "476",
+        "source": "s5kansascity",
+        "destination": "discord.gg/rpbUWNU",
+        "name": "Kansas City",
+        "votes": "8",
+        "voted": [
+          "185909662128930816",
+          "551990349019480064",
+          "114239799723950082",
+          "321748267681710092",
+          "304425994125836288",
+          "326254523016282112",
+          "707275854551711759",
+          "110164407102763008"
+        ],
+        "image": "smashcords.com/images/1568648614947.4727.png",
+        "description": "Discord for local scene of Kansas City",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2019-12-31T00:53:58.150Z",
+          "updatedAt": "2019-12-31T00:53:58.150Z",
+          "CategoryId": "10",
+          "ReferralId": "476"
+        }
+      },
+      {
+        "id": "495",
+        "source": "meleeoregon",
+        "destination": "discord.gg/75vJ2gz",
+        "name": "Oregon",
+        "votes": "0",
+        "voted": [
+        ],
+        "image": "smashcords.com/images/1588661757104.905.jpeg",
+        "description": "The local server for the Oregon scene",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2020-05-05T06:59:20.192Z",
+          "updatedAt": "2020-05-05T06:59:20.192Z",
+          "CategoryId": "10",
+          "ReferralId": "495"
+        }
+      },
+      {
+        "id": "508",
+        "source": "meleewv",
+        "destination": "discord.gg/QSUkG6H",
+        "name": "West Virginia",
+        "votes": "1",
+        "voted": [
+          "560497459688898580"
+        ],
+        "image": "smashcords.com/images/1589050839321.2903.png",
+        "description": "The local server for the West Virginia scene",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2020-05-09T19:01:25.690Z",
+          "updatedAt": "2020-05-09T19:01:25.690Z",
+          "CategoryId": "10",
+          "ReferralId": "508"
+        }
+      },
+      {
+        "id": "527",
+        "source": "meleecolorado",
+        "destination": "discord.gg/XBYBWQQ",
+        "name": "Colorado Netplay",
+        "votes": "0",
+        "voted": [
+        ],
+        "image": "smashcords.com/images/1614576175149.5825.png",
+        "description": "The Melee Discord Server for Colorado scene",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2021-03-01T05:23:20.461Z",
+          "updatedAt": "2021-03-01T05:23:20.461Z",
+          "CategoryId": "10",
+          "ReferralId": "527"
+        }
+      },
+      {
+        "id": "528",
+        "source": "meleechicago",
+        "destination": "discord.gg/naRmRHRwfB",
+        "name": "Chicagoland Melee",
+        "votes": "0",
+        "voted": [
+        ],
+        "image": "smashcords.com/images/1614576370107.77.png",
+        "description": "The Melee Discord Server for Chicago Scene",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2021-03-01T05:26:33.224Z",
+          "updatedAt": "2021-03-01T05:26:33.224Z",
+          "CategoryId": "10",
+          "ReferralId": "528"
+        }
+      },
+      {
+        "id": "531",
+        "source": "meleenovascotia",
+        "destination": "discord.gg/TvnXUV46Yp",
+        "name": "SSBM Nova Scotia",
+        "votes": "0",
+        "voted": [
+        ],
+        "image": "smashcords.com/images/1614577055989.9617.png",
+        "description": "The Melee Discord Server for Nova Scotia Scene",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2021-03-01T05:38:14.570Z",
+          "updatedAt": "2021-03-01T05:38:14.570Z",
+          "CategoryId": "10",
+          "ReferralId": "531"
+        }
+      },
+      {
+        "id": "532",
+        "source": "s5tunisia",
+        "destination": "discord.gg/6brhrpY7fv",
+        "name": "Tunisia",
+        "votes": "1",
+        "voted": [
+          "282174251098701824"
+        ],
+        "image": "smashcords.com/images/1614577338274.2441.png",
+        "description": "For the Tunisian Smash Scene",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2021-03-01T05:43:10.884Z",
+          "updatedAt": "2021-03-01T05:43:10.884Z",
+          "CategoryId": "10",
+          "ReferralId": "532"
+        }
+      },
+      {
+        "id": "533",
+        "source": "s5newzealand",
+        "destination": "discord.gg/DktFRNC",
+        "name": "New Zealand",
+        "votes": "0",
+        "voted": [
+        ],
+        "image": "smashcords.com/images/1614577686639.4153.png",
+        "description": "The New Zealand Smash Scene",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2021-03-01T05:48:47.012Z",
+          "updatedAt": "2021-03-01T05:48:47.012Z",
+          "CategoryId": "10",
+          "ReferralId": "533"
+        }
+      },
+      {
+        "id": "534",
+        "source": "meleeperu",
+        "destination": "discord.gg/hf4uRMja8H",
+        "name": "Peru",
+        "votes": "1",
+        "voted": [
+          "293542355288719360"
+        ],
+        "image": "smashcords.com/images/1614577984567.4727.png",
+        "description": "The Melee Discord Server for Peru Scene",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2021-03-01T05:53:22.009Z",
+          "updatedAt": "2021-03-01T05:53:22.009Z",
+          "CategoryId": "10",
+          "ReferralId": "534"
+        }
+      },
+      {
+        "id": "535",
+        "source": "s5ireland",
+        "destination": "discord.gg/5vZzZpq",
+        "name": "Ireland",
+        "votes": "7",
+        "voted": [
+          "211185209473892352",
+          "745706940864397452",
+          "238051310509883392",
+          "106095032196403200",
+          "397436966905577472",
+          "534321539949002752",
+          "692537706017849396"
+        ],
+        "image": "smashcords.com/images/1614578764920.8987.png",
+        "description": "For the Ireland Smash Scene",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2021-03-01T06:07:01.679Z",
+          "updatedAt": "2021-03-01T06:07:01.679Z",
+          "CategoryId": "10",
+          "ReferralId": "535"
+        }
+      },
+      {
+        "id": "560",
+        "source": "meleeohio",
+        "destination": "discord.gg/VPBwmkCa9Y",
+        "name": "Ohio SSBM Official",
+        "votes": "0",
+        "voted": [
+        ],
+        "image": "smashcords.com/images/1630466810192.0896.png",
+        "description": "The regional server for the Ohio community",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2021-09-01T03:27:10.971Z",
+          "updatedAt": "2021-09-01T03:27:10.971Z",
+          "CategoryId": "10",
+          "ReferralId": "560"
+        }
+      },
+      {
+        "id": "564",
+        "source": "meleedutch",
+        "destination": "discord.gg/QJ5wT2Q",
+        "name": "Dutch Melee Discord",
+        "votes": "0",
+        "voted": [
+        ],
+        "image": "smashcords.com/images/1630469383885.5693.png",
+        "description": "Melee server for the dutch speaking community",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2021-09-01T04:10:12.872Z",
+          "updatedAt": "2021-09-01T04:10:12.872Z",
+          "CategoryId": "10",
+          "ReferralId": "564"
+        }
+      },
+      {
+        "id": "566",
+        "source": "norcalmelee",
+        "destination": "discord.gg/FqhuwFTs67",
+        "name": "NorCal Melee",
+        "votes": "1",
+        "voted": [
+          "126122567881719809"
+        ],
+        "image": "smashcords.com/images/1634010203119.4258.png",
+        "description": "The HUB server for the norcal melee comunity ",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2021-10-12T03:43:49.808Z",
+          "updatedAt": "2021-10-12T03:43:49.808Z",
+          "CategoryId": "10",
+          "ReferralId": "566"
+        }
+      },
+      {
+        "id": "570",
+        "source": "meleerussia",
+        "destination": "discord.gg/7guM95xeda",
+        "name": "SSBM Russia",
+        "votes": "1",
+        "voted": [
+          "560806703759884298"
+        ],
+        "image": "smashcords.com/images/1634839963621.3823.png",
+        "description": "The regional server for the Russian community",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2021-10-21T18:13:09.742Z",
+          "updatedAt": "2021-10-21T18:13:09.742Z",
+          "CategoryId": "10",
+          "ReferralId": "570"
+        }
+      },
+      {
+        "id": "575",
+        "source": "ssbuswflorida",
+        "destination": "discord.gg/h9F5EcJ3Ut",
+        "name": "Southwest Florida Smash",
+        "votes": "0",
+        "voted": [
+        ],
+        "image": "smashcords.com/images/1639900555376.9326.png",
+        "description": "The discord server for the SSBU and Melee southwest florida community",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2021-12-19T07:56:22.291Z",
+          "updatedAt": "2021-12-19T07:56:22.291Z",
+          "CategoryId": "10",
+          "ReferralId": "575"
+        }
+      },
+      {
+        "id": "580",
+        "source": "meleeMichigan",
+        "destination": "discord.gg/8AbGK3r",
+        "name": "Melee Michigan",
+        "votes": "0",
+        "voted": [
+        ],
+        "image": "smashcords.com/images/1652846382269.3599.png",
+        "description": "The discord server for the Melee Community at Michigan",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2022-05-18T04:00:21.588Z",
+          "updatedAt": "2022-05-18T04:00:21.588Z",
+          "CategoryId": "10",
+          "ReferralId": "580"
+        }
+      },
+      {
+        "id": "581",
+        "source": "s5canadanl",
+        "destination": "discord.gg/gW9FjUr6wc",
+        "name": "Canada Newfoundland",
+        "votes": "0",
+        "voted": [
+        ],
+        "image": "smashcords.com/images/1652846844256.199.png",
+        "description": "The Smash Discord server for the Canadian Newfoundland community",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2022-05-18T04:07:57.835Z",
+          "updatedAt": "2022-05-18T04:07:57.835Z",
+          "CategoryId": "10",
+          "ReferralId": "581"
+        }
+      },
+      {
+        "id": "582",
+        "source": "meleeGreece",
+        "destination": "discord.gg/ehGuNet",
+        "name": "Greek SSBM",
+        "votes": "0",
+        "voted": [
+        ],
+        "image": "smashcords.com/images/1652847631636.5747.png",
+        "description": "The discord server for the Melee Community At Greece",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2022-05-18T04:21:02.647Z",
+          "updatedAt": "2022-05-18T04:21:02.647Z",
+          "CategoryId": "10",
+          "ReferralId": "582"
+        }
+      },
+      {
+        "id": "586",
+        "source": "s5londonUni",
+        "destination": "discord.gg/q6DHkzMQpt",
+        "name": "London University Smash Hub",
+        "votes": "1",
+        "voted": [
+          "152956311917690880"
+        ],
+        "image": "smashcords.com/images/1652849984132.7207.png",
+        "description": "The HUB discord server for the London Universities Smash community",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2022-05-18T05:00:11.395Z",
+          "updatedAt": "2022-05-18T05:00:11.395Z",
+          "CategoryId": "10",
+          "ReferralId": "586"
+        }
+      },
+      {
+        "id": "587",
+        "source": "s5southAfrica",
+        "destination": "discord.gg/VgYPf794Yz",
+        "name": "South Africa",
+        "votes": "0",
+        "voted": [
+        ],
+        "image": "smashcords.com/images/1652850368208.7207.png",
+        "description": "The Smash Discord server for the community at South Africa",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2022-05-18T05:06:41.491Z",
+          "updatedAt": "2022-05-18T05:06:41.491Z",
+          "CategoryId": "10",
+          "ReferralId": "587"
+        }
+      },
+      {
+        "id": "590",
+        "source": "tennesseemelee",
+        "destination": "discord.gg/QVK4YC4S",
+        "name": "Tennessee Melee",
+        "votes": "0",
+        "voted": [
+        ],
+        "image": "smashcords.com/images/1653797639675.998.png",
+        "description": "The HUB server for the Tennessee Meele community",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2022-05-29T04:14:22.824Z",
+          "updatedAt": "2022-05-29T04:14:22.824Z",
+          "CategoryId": "10",
+          "ReferralId": "590"
+        }
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Melee Tourney",
+    "type": "melee",
+    "createdAt": "2018-10-01T04:36:04.723Z",
+    "updatedAt": "2018-10-01T04:36:04.723Z",
+    "Servers": [
+      {
+        "id": "96",
+        "source": "byoc",
+        "destination": "discord.gg/xedNnxS",
+        "name": "Bring your own Controller",
+        "votes": "1",
+        "voted": [
+          "605119632780820490"
+        ],
+        "image": "smashcords.com/images/1538453049014.8257.png",
+        "description": "Smash tournament server",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2018-10-02T04:08:51.998Z",
+          "updatedAt": "2018-10-02T04:08:51.998Z",
+          "CategoryId": "9",
+          "ReferralId": "96"
+        }
+      },
+      {
+        "id": "523",
+        "source": "meleetrainingroom",
+        "destination": "discord.gg/uYGGBCa",
+        "name": "Melee Training Room",
+        "votes": "0",
+        "voted": [
+        ],
+        "image": "smashcords.com/images/1657603165739.7305.png",
+        "description": "The Melee Training Room Discord Server",
+        "tags": [
+        ],
+        "GroupServer": {
+          "createdAt": "2021-03-01T05:07:06.971Z",
+          "updatedAt": "2021-03-01T05:07:06.971Z",
+          "CategoryId": "9",
+          "ReferralId": "523"
+        }
+      }
+    ]
+  }
+]
