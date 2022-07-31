@@ -22,14 +22,18 @@ def deep_get(dictionary, *keys, default=None):
     return reduce(lambda d, key: d.get(key, default) if isinstance(d, dict) else default, keys, dictionary)
 
 
-async def get_invite_name(session: ClientSession, invite_code: str) -> str:
+async def get_guild_from_invite(session: ClientSession, invite_code: str) -> dict:
     async with session.get(DISCORD_API_INVITE_URL + invite_code) as response:
         data = await response.text()
         json_data = json.loads(data)
-        return deep_get(json_data, "guild", "name")
+
+        return {
+            "id": deep_get(json_data, "guild", "id"),
+            "name": deep_get(json_data, "guild", "name")
+        }
 
 
-async def parse_smashcords(acc: dict, path: Union[str, bytes, os.PathLike]):
+async def parse_smashcords(session: ClientSession, acc: dict, path: Union[str, bytes, os.PathLike]):
     root: List[dict]
     with open(path, "r") as f:
         root = json.load(f)
@@ -41,16 +45,21 @@ async def parse_smashcords(acc: dict, path: Union[str, bytes, os.PathLike]):
             server_name = server.get("name")
             invite_url = server.get("destination")
             invite_code = None if not invite_url else INVITE_RE.match(invite_url).group(1)
-            print({
-                "category": category_name,
-                "name": server_name,
+            guild = {}
+            # guild = await get_guild_from_invite(session, invite_code)
+            # await asyncio.sleep(1)
+            result = {
+                "smashcords_category": category_name,
+                "smashcords_name": server_name,
                 "invite_code": invite_code,
-            })
+            }
+            result.update(guild)
+            print(result)
 
 
 async def main():
     async with aiohttp.ClientSession() as session:
-        await parse_smashcords({}, r"data/smashcords.json")
+        await parse_smashcords(session, {}, r"data/smashcords.json")
 
 
 if __name__ == '__main__':
